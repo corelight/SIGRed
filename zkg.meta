@@ -1,5 +1,5 @@
 [package]
 description = (SIGRed CVE-2020-1350 Windows DNS Server exploit detection)
 tags = SIGRed, CVE-2020-1350, DNS, Windows, Microsoft
-version = 0.1
+version = 0.2
 script_dir = scripts
