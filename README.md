@@ -1,4 +1,4 @@
-# CVE_2020_1350 (AKA SIGRed)
+# Detection of Windows DNS Server RCE Vulnerability CVE-2020-1350 (AKA SIGRed)
 
 ## Summary:  
 A Zeek package for detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed - CVE Score of 10.0)
